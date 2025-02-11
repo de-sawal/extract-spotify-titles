@@ -1,8 +1,3 @@
-Below is a sample **README.md** file for Option 1 (the Spotify API method):
-
----
-
-```markdown
 # Spotify Playlist Scraper (API Method)
 
 This Python script uses the official Spotify Web API (via the [spotipy](https://spotipy.readthedocs.io/) library) to scrape any public Spotify playlist for song details. It extracts key information such as track name, artist(s), album, duration, and external URL, then exports the data in either CSV or JSON format.
